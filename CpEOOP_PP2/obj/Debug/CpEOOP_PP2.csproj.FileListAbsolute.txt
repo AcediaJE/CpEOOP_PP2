@@ -1,0 +1,7 @@
+C:\Users\jetdu\source\repos\CpEOOP_PP2\bin\Debug\CpEOOP_PP2.exe.config
+C:\Users\jetdu\source\repos\CpEOOP_PP2\bin\Debug\CpEOOP_PP2.exe
+C:\Users\jetdu\source\repos\CpEOOP_PP2\bin\Debug\CpEOOP_PP2.pdb
+C:\Users\jetdu\source\repos\CpEOOP_PP2\obj\Debug\CpEOOP_PP2.csproj.AssemblyReference.cache
+C:\Users\jetdu\source\repos\CpEOOP_PP2\obj\Debug\CpEOOP_PP2.csproj.CoreCompileInputs.cache
+C:\Users\jetdu\source\repos\CpEOOP_PP2\obj\Debug\CpEOOP_PP2.exe
+C:\Users\jetdu\source\repos\CpEOOP_PP2\obj\Debug\CpEOOP_PP2.pdb
